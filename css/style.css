@@ -10,3 +10,8 @@ input:invalid {
 input:invalid {
   border: 2px solid: green;
 }
+canvas {
+  border-style: solid;
+  border-color: lightgreen;
+  border-width: 7px;
+}

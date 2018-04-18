@@ -1,0 +1,5 @@
+/*jshint eserversion: 6 */
+const canvasElem = document.getElementById('canvas1');
+const ctx = canvasElement.getContext('2d');
+
+ctx.
